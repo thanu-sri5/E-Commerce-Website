@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Storefront",
+  "description": "A modern, highly polished E-Commerce storefront featuring search, filtering, sorting, a persistent shopping cart, product details modal, wishlist, dynamic Elegant Dark design theme, and responsive designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
